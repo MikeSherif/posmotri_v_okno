@@ -1,6 +1,6 @@
 @font-face {
   font-family: Oswald;
-  src: url(Oswald-Bold.woff2) format('woff2'), url(Oswald-Bold.woff) format('woff');
+  src: url(/fonts/Oswald-Bold.woff2) format('woff2'), url(/fonts/Oswald-Bold.woff) format('woff');
   font-weight: 700;
   font-style: normal;
 }
